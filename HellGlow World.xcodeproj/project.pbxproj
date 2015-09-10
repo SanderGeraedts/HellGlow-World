@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		F57616031BA1796000460762 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F57616021BA1796000460762 /* main.swift */; };
+		F576160A1BA179CB00460762 /* GlowAct.swift in Sources */ = {isa = PBXBuildFile; fileRef = F57616091BA179CB00460762 /* GlowAct.swift */; };
+		F576160C1BA179DA00460762 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = F576160B1BA179DA00460762 /* City.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		F57615FF1BA1796000460762 /* HellGlow World */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "HellGlow World"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F57616021BA1796000460762 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F57616091BA179CB00460762 /* GlowAct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlowAct.swift; sourceTree = "<group>"; };
+		F576160B1BA179DA00460762 /* City.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				F57616021BA1796000460762 /* main.swift */,
+				F57616091BA179CB00460762 /* GlowAct.swift */,
+				F576160B1BA179DA00460762 /* City.swift */,
 			);
 			path = "HellGlow World";
 			sourceTree = "<group>";
@@ -119,6 +125,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F57616031BA1796000460762 /* main.swift in Sources */,
+				F576160A1BA179CB00460762 /* GlowAct.swift in Sources */,
+				F576160C1BA179DA00460762 /* City.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
